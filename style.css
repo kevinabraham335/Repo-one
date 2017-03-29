@@ -1,0 +1,48 @@
+
+
+div
+{
+
+  color: blue;
+  background: white;
+  font-size: 30px;
+  font-family: 'Montserrat',sans-serif;
+  margin-top: 90px;
+  float: right;
+  padding-bottom: 5px;
+  width: 45%;
+
+}
+p
+{
+  color: black;
+  background: white;
+  font-size: 50px;
+  font-family: 'Montserrat',sans-serif;
+  margin-top: 90px;
+  float: right;
+  padding-bottom: 5px;
+  width: 45%;
+
+
+}
+#mainpart
+{
+margin-top: -5px;
+  float:right;
+  margin-left: 45%;
+
+font-family: 'Montserrat',sans-serif;;
+  width: 45%;
+  color: gray;
+  background: white;
+  font-size: 20;
+}
+#left{
+  padding-right: 300px;
+  margin-top: -700px;
+  float:left;
+  width: 30%;
+  height: 50%;
+  margin-left: -10px;
+}
