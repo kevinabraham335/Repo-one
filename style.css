@@ -16,15 +16,8 @@ div
 p
 {
   color: black;
-  background: white;
   font-size: 50px;
-  font-family: 'Montserrat',sans-serif;
-  margin-top: 90px;
-  float: right;
-  padding-bottom: 5px;
-  width: 45%;
-
-
+  margin: 0;
 }
 #mainpart
 {
